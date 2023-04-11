@@ -5,6 +5,8 @@
 
 ArtiFactual is a simple library and desktop application that allows users to decode and view encoded information from images easily and conveniently. It works by reading generation information or imprinted data of an image and displaying it, ensuring that the image file serves as a standalone ship.
 
+<img src="./_repo/screenshot.png" width="200px" height="200px">
+
 ## Table of Contents
 
 - [Features](#features)
@@ -22,9 +24,9 @@ ArtiFactual is a simple library and desktop application that allows users to dec
 - Uses QT6/PySide6 for GUI
 - Standalone desktop application for ease of use
 
-## Examples
+## Example
 
-![ArtiFactual Screenshot](./_repo/screenshot.png)
+https://user-images.githubusercontent.com/2738686/231028804-8a1ee6d6-8579-4a3d-95e9-00993b96d2ff.mp4
 
 ## Getting Started
 
