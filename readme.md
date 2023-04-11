@@ -67,4 +67,4 @@ https://user-images.githubusercontent.com/2738686/231028804-8a1ee6d6-8579-4a3d-9
 
 ## License
 
-ArtiFactual is licensed under the [MIT License](LICENSE).
+ArtiFactual is licensed under the [MIT License](./LICENSE.txt).
